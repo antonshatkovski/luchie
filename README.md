@@ -39,7 +39,7 @@ footer {
   </head>
   <body>
     <header>
-      <a class="link-header" href="index.html">Главная</a>
+      <a class="link-header" href="https://antonshatkovski.github.io/portfolio/">Главная</a>
     </header>
     <main>
       <h1>Мои сайты</h1>
@@ -51,9 +51,9 @@ footer {
         <p>Бонус: <a class="link-text" href="https://nadvilboa.github.io/-4-3_bonus/"><b>Сайт</b></a> турнира по киберспорту</p>
     </main>
     <footer>
-      <a class="social" href=""><img src="/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
-      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
-      <a class="social" href=""><img src="/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://backoffice.algoritmika.org/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://backoffice.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://backoffice.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
     </footer>
   </body>
 </html>
